@@ -1,0 +1,14 @@
+body{
+background-color: silver;	
+text-align: center;
+}
+
+.text{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
